@@ -9,3 +9,5 @@ M
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 I
 gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+H
+.github/workflows/ci.yml,8\9\899ce9c202bf7bb5480e72836c3edc773c9c4244
